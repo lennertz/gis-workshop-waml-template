@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Your New Page's Title
-nav_order: 11
+title: My test added page
+nav_order: 2.5
 ---
 ![My favorite map](img/fav-map.png)
 # I'm Santa Claus!
